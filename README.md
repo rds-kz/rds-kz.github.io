@@ -1,0 +1,2 @@
+# rds.kz
+rds.kz
